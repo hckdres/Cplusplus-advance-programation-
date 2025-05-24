@@ -2,6 +2,14 @@
 
 Este documento describe detalladamente la implementación del pipeline ETL realizado en C++ durante la primera entrega del proyecto. Se desarrolla un flujo secuencial que incluye extracción local (desde archivo CSV), transformación de los datos con análisis estadístico, y carga en formato binario estructurado. Todo se implementa sin vectores ni librerías modernas, siguiendo el enfoque de arreglos dinámicos y punteros.
 
+### Integrantes
+```
+- Juan Baez Parra
+- Juliana Aguirre
+- Juan Diego Funeme
+- Andres Cortes
+```
+
 ---
 
 ## Estructura del Proyecto
